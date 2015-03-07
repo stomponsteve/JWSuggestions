@@ -7,7 +7,7 @@ A Suggestion Tracker for Johnnywoof Survival
 <p>With this new recode comes a chance for you all to help out. I'm aware you all have opinions on <b>everything</b> so I'm hoping some good will come out of this. On this Repository you can leave suggestions for things I should tweak as I recode the systems. I'll do my best to respond to and explain every one of them as best I can and if it's a really awesome idea, then I'll implement it!</p>
 
 <p>To get started head to the issues tab over there (the exclamation mark) ---><br>
-https://github.com/drewhoener/JWSuggestions/issues if you can't see it for whatever reason.
+<a href = "https://github.com/drewhoener/JWSuggestions/issues">https://github.com/drewhoener/JWSuggestions/issues</a> if you can't see it for whatever reason.
 You'll need to create an account to leave comments and suggestions so, if you're not ok with that, then this is not for you.
 To create a suggestion, hit the green [New Issue] button.</p>
 
@@ -23,4 +23,4 @@ To create a suggestion, hit the green [New Issue] button.</p>
 
 <p>Keep in mind I'm NOT looking for suggestions for new plugins/features right now, mainly interested in making the stuff we have right now as good as it possibly can be. A few additions here and there are nice, but not huge stuff.</p>
 
-<h2>TL;DR I'm recoding all the plugins want to help? Yeah? Cool, go make a request over there ---></h2>
+<h2>TL;DR I'm recoding all the plugins want to help? Yeah? Cool, go make a request over <a href = "https://github.com/drewhoener/JWSuggestions/issues">here</a></h2>
